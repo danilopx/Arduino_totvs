@@ -1,6 +1,6 @@
 # Arduino_totvs
 
-Projeto de integração do ERP Protheus da Totvs com IHM desenvolvido com arduino para contagem, apontamento de produção e enissão de etiqueta de identificação da caixa.
+Projeto com o objetivo de integrar o ERP Protheus da Totvs com IHM desenvolvido com arduino para contabilizar o número de peças produzidas e fazer o apontamento de produção e emissão de etiqueta de identificação da caixa de forma automática.
 
 1) Requisitos Protheus
 
@@ -17,5 +17,8 @@ Projeto de integração do ERP Protheus da Totvs com IHM desenvolvido com arduin
   - Shield UsbHost Adk 2.0 para conectar leitor de código de barras.
   - Shield rs232 para conexão com a impressora Zebra GC420t.
   - Shield Internet enc28j60 para comunicação com o Webserver REST.
-  - Shield display lcd 20x4 para mostrar informação da ordem de produção e o núnero de peças contabilizadas.
+  - Shield display lcd 20x4 para mostrar informação da ordem de produção e o núnero de peças contabilizada.
   - Conexão atraves de pulso digital com o equipamento de teste de fuga de corrente (Hipot) localizado no final da linha de produção para fazer a contabilização das peças aprovadas.
+
+
+
