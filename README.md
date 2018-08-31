@@ -28,4 +28,13 @@ Projeto com o objetivo de integrar o ERP Protheus da Totvs com IHM desenvolvido 
   ![img](https://github.com/danilopx/Arduino_totvs/blob/master/img/img01.jpeg)
 
 
+ Fase 2 - Montagem do Prototipo
+ 
+Apos testes iniciais na fase 1, foi montado o prototipo do IHM. Para a montagem foi utilizado uma caixa em plastica dom as medidas 
+16cm x 10cm x 7 cm.
+Na parte frontal da caixa ficou instalado o Display LCD, dois push botton e dois leds, um verde e outro vermelho para sinais    indicativos.
+
+Na lateral direira estão a entrada USB padrão do arduino, entrada USB do shield UsbHost para conexão do leitor de código de barras e a entrada de fonte de energia.
+
+Na lateral esquerda estão a entrada de rede RJ45 e a entrada serial RS232 para comunicação com a impressora Zebra.
 
