@@ -38,7 +38,7 @@ Na lateral direira estão a entrada USB padrão do arduino, entrada USB do shiel
 
 Na lateral esquerda estão a entrada de rede RJ45 e a entrada serial RS232 para comunicação com a impressora Zebra.
 
-  ![img](https://github.com/danilopx/Arduino_totvs/blob/master/img/img02.jpeg)
-    ![img](https://github.com/danilopx/Arduino_totvs/blob/master/img/img03.jpeg)
+  ![img](https://github.com/danilopx/Arduino_totvs/blob/master/img/img2.jpg)
+  ![img](https://github.com/danilopx/Arduino_totvs/blob/master/img/img03.jpg)
 
 
