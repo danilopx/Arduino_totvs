@@ -40,7 +40,11 @@ Na lateral esquerda estão a entrada de rede RJ45 e a entrada serial RS232 para 
 
   ![img](https://github.com/danilopx/Arduino_totvs/blob/master/img/img2.jpg)
   
-Fase 2 - Comunicação com a impressora Zebra GC420t
+Fase 3 - Comunicação com a impressora Zebra GC420t
+
+A comunicação do coletor de dados com a impressora será feita pela comunicação serial RS232, o cabo utilizado tem nas duas pontas conector DB9 macho, conforme esquema na imagem abaixo os pinos ligados são 2 com 3, 3 com 2 e 5 com 5.
+
+
 
 
 
