@@ -46,7 +46,7 @@ A comunicação do coletor de dados com a impressora será feita pela comunicaç
 
 
 
-
+ ![img](https://github.com/danilopx/Arduino_totvs/blob/master/img/cabo-serial.jpg)
 
 
 
