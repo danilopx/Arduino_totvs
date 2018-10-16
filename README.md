@@ -21,7 +21,7 @@ Projeto tem como objetivo, integrar o Sistema ERP Protheus da Totvs com um colet
   - Conexão atraves de pulso digital com o equipamento de teste de fuga de corrente (Hipot) localizado no final da linha de produção para fazer a contabilização das peças aprovadas.
   
   
-Fase 1 - Esbolso do IHM com arduino.
+Fase 1 - Esbolso do coletor de dados com arduino.
   
 Nesta fase foi feita a ligação dos componentes(Display LCD, Enc28j60, UsbHost) e teste com o webservice do protheus.
   
