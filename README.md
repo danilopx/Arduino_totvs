@@ -46,7 +46,7 @@ A comunicação do coletor de dados com a impressora foi feita pela comunicaçã
 
 ![img](https://github.com/danilopx/Arduino_totvs/blob/master/img/cabo-serial.jpg)
  
-Foi utilizado a linguagem de programação ZPL para a montagem da etiqueta e envio para a impressora. 
+Para a impressão da etiqueta na impressora Zebra GC420T com o arduino, foi necessario enviar comando ZPL, esses comandos são interpretado pela impressora, fazendo impressão da etiqueta.
 
  ![img](https://github.com/danilopx/Arduino_totvs/blob/master/img/img4.jpg)
 
