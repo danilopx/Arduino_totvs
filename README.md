@@ -48,5 +48,5 @@ A comunicação do coletor de dados com a impressora foi feita pela comunicaçã
  
 Foi utilizado a linguagem de programação ZPL para a montagem da etiqueta e envio para a impressora. 
 
-
+ ![img](https://github.com/danilopx/Arduino_totvs/blob/master/img/img4.jpg)
 
