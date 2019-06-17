@@ -52,7 +52,7 @@ Para a impressão da etiqueta na impressora Zebra GC420T com o arduino, foi nece
  
  3)Consirerações Finais
  
-   Durante a execução do projeto tivemos alguns problemas principalmento quanto a memoria do arduino, a biblioteca EtherCard consome muita memoria no retorno das informações atraves de uma API REST e a muita perdas de pacotes. Outro problema encontrado foi atraves da utilização da saida TX RX com o shild de rs323, quando a perda a comunição tem que reiniciar o arduino.
+   Durante a execução do projeto tivemos alguns problemas principalmento quanto a memoria do arduino, a biblioteca EtherCard consome muita memoria no retorno das informações atraves de uma API REST e a muita perdas de pacotes. Outro problema encontrado foi atraves da utilização da saida TX RX com o shild de rs232, quando a perda a comunição tem que reiniciar o arduino.
    O projeto atendeu com o que foi proposto, porém devido aos problemas citados ainda não há a possibilidade de utilizar esse coletor de dados no dia a dia em um ambiemte de chão de fabrica. 
    
 
