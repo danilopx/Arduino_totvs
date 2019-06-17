@@ -105,9 +105,6 @@ USB Usb;
 HIDUniversal Hid(&Usb);
 MyParser Parser;
 
-
-
-
 //////////////////////////////// final classe USBHOST //////////////////////////////////////////////////////////
 
 //////////////////////////////// inicio da função para receber a resposta rest do servidor /////////////////////
@@ -415,25 +412,12 @@ void loop() {
 
     } else {
 
-
-   
-
-
-      
-
         if(flag_menu == true){
           
           menu( val,  parar);
-
-        
-  
-          
-          
+            
           }else{
-       
-
-      
-
+            
          ether.packetLoop(ether.packetReceive());
 
         //  digitalWrite(co, HIGH); //temporario
