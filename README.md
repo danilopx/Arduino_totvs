@@ -1,4 +1,4 @@
-# Arduino_totvs
+# Coletor de dados para apontamento de produção no ERP Protheus Totvs.
 
 Projeto tem como objetivo, integrar o Sistema ERP Protheus da Totvs com um coletor de dados desenvolvido em arduino que será responsavel por contabilizar o número de peças produzidas e fazer o apontamento de produção e emissão de etiqueta de identificação da caixa de forma automática.
 
@@ -49,4 +49,10 @@ A comunicação do coletor de dados com a impressora foi feita pela comunicaçã
 Para a impressão da etiqueta na impressora Zebra GC420T com o arduino, foi necessario enviar comando ZPL, esses comandos são interpretado pela impressora, fazendo impressão da etiqueta.
 
  ![img](https://github.com/danilopx/Arduino_totvs/blob/master/img/img4.jpg)
+ 
+ 3)Consirerações Finais
+ 
+   Durante a execução do projeto tivemos alguns problemas principalmento quanto a memoria do arduino, a biblioteca EtherCard consome muita memoria no retorno das informações atraves de uma API REST e a muita perdas de pacotes. Outro problema encontrado foi atraves da utilização da saida TX RX com o shild de rs323, quando a perda a comunição tem que reiniciar o arduino.
+   O projeto atendeu com o que foi proposto, porém devido aos problemas citados ainda não há a possibilidade de utilizar esse coletor de dados no dia a dia em um ambiemte de chão de fabrica. 
+   
 
